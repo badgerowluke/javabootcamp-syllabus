@@ -1,0 +1,9 @@
+Day 1-2: Introduction to Modern Java Features
+Review Java 8 features such as lambdas and streams.
+Provide resources for self-study on functional programming concepts.
+Day 3-4: Understanding Modern Java Frameworks
+Introduce Spring Boot as a modern Java framework for building microservices.
+Provide tutorials and documentation for getting started with Spring Boot.
+Day 5-7: Hands-On Practice with Spring Boot
+Assign small coding exercises to practice building RESTful APIs with Spring Boot.
+Encourage exploration of Spring Boot's features like dependency injection and auto-configuration.

@@ -1,0 +1,25 @@
+Certainly! Here are some resources you can use for self-study to cover the new features in Java 17:
+
+1. **Official Java Documentation**:
+   - Java 17 Release Notes: The official release notes provide detailed information about the new features, enhancements, and changes introduced in Java 17.
+   - Oracle JDK 17 Documentation: Explore the official documentation for Java 17, which includes tutorials, guides, and API documentation covering the new features.
+
+2. **Online Tutorials and Articles**:
+   - Baeldung: Baeldung offers comprehensive tutorials on various Java topics, including the new features in Java 17. Search for specific topics such as pattern matching, sealed classes, records, and FFI.
+   - Java Magazine: Java Magazine provides articles and tutorials written by Java experts, covering the latest updates and best practices in Java development. Look for articles related to Java 17 features.
+
+3. **Books**:
+   - "Java 17: Features and Enhancements" by Kishori Sharan: This book provides a detailed overview of the new features introduced in Java 17, including pattern matching, sealed classes, records, and FFI. It covers usage examples and best practices for leveraging these features effectively.
+   - "Modern Java in Action" by Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft: While not specifically focused on Java 17, this book covers modern Java features and best practices, including pattern matching and records, which are relevant to Java 17.
+
+4. **Official OpenJDK Projects**:
+   - OpenJDK Project: Visit the OpenJDK website and explore the relevant projects related to Java 17 features. You can find specifications, design documents, and discussions related to pattern matching, sealed classes, records, and FFI.
+
+5. **Online Courses**:
+   - Coursera: Search for Java courses on Coursera that cover the latest Java features, including Java 17. Look for courses taught by reputable instructors or universities that provide in-depth coverage of the topics you're interested in.
+   - Udemy: Udemy offers a variety of Java courses covering different skill levels and topics. Look for courses that specifically mention Java 17 or cover the new features introduced in recent Java versions.
+
+6. **Java User Groups and Communities**:
+   - Join Java user groups or online communities where developers discuss Java-related topics and share resources. Participate in discussions, ask questions, and learn from the experiences of other developers working with Java 17 features.
+
+These resources should provide you with a solid foundation for self-study on the new features in Java 17, including pattern matching for switch statements, sealed classes, records, and foreign function interface (FFI). Happy learning!
